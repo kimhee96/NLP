@@ -10,3 +10,6 @@ Pytorch 기본 youtube : https://www.youtube.com/watch?v=VKhFeh92eps
 
 
 위키독스 ; https://wikidocs.net
+
+
+쉽게쓰여진 word2vec : https://dreamgonfly.github.io/blog/word2vec-explained/
