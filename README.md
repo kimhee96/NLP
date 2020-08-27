@@ -7,7 +7,8 @@ Pytorch 기본 youtube : https://www.youtube.com/watch?v=VKhFeh92eps
 
 
 딥러닝을 이용한 자연어 처리 입문 : https://wikidocs.net/21681. 
- -- 쉽게 설명 : http://medimu.com/@omicro03
+ 
+ -- 쉽게 설명 : http://medium.com/@omicro03
 
 
 위키독스 ; https://wikidocs.net
