@@ -17,3 +17,6 @@ Pytorch 기본 youtube : https://www.youtube.com/watch?v=VKhFeh92eps
 쉽게쓰여진 word2vec : https://dreamgonfly.github.io/blog/word2vec-explained/
 
 http://nlp.seas.harvard.edu/2018/04/03/attention.html#embeddings-and-softmax
+
+
+https://paperswithcode.com/methods
