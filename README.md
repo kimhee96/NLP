@@ -20,3 +20,18 @@ http://nlp.seas.harvard.edu/2018/04/03/attention.html#embeddings-and-softmax
 
 
 https://paperswithcode.com/methods
+
+https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_feedforward_neuralnetwork/
+
+https://github.com/bentrevett/pytorch-sentiment-analysis
+
+CNN요약 : http://taewan.kim/post/cnn/
+
+A Comprehensive Introduction to Torchtext (Practical Torchtext part 1)
+http://mlexplained.com/2018/02/08/a-comprehensive-tutorial-to-torchtext/
+
+Illustrated Guide to LSTM’s and GRU’s: A step by step explanation
+https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
+
+Illustrated Guide to Recurrent Neural Networks
+https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9
