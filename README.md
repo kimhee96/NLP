@@ -35,3 +35,5 @@ https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-st
 
 Illustrated Guide to Recurrent Neural Networks
 https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9
+
+https://nbviewer.jupyter.org/github/simonjisu/pytorch_tutorials/blob/master/00_Basic_Utils/02_PackedSequence.ipynb
