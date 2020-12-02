@@ -40,3 +40,8 @@ https://nbviewer.jupyter.org/github/simonjisu/pytorch_tutorials/blob/master/00_B
 
 bert 설명 ; 
 https://towardsdatascience.com/from-pre-trained-word-embeddings-to-pre-trained-language-models-focus-on-bert-343815627598
+
+MS fastformers 
+https://github.com/Microsoft/fastformers
+https://github.com/marian-nmt/marian-dev
+
