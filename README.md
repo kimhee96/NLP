@@ -2,6 +2,7 @@
 
 PyTorch로 시작하는 딥 러닝 입문 : https://wikidocs.net/book/2788
 
+모두를 위한 딥러닝-PyTorch : https://www.youtube.com/playlist?list=PLQ28Nx3M4JrhkqBVIXg-i5_CVVoS1UzAv
 
 Pytorch 기본 youtube : https://www.youtube.com/watch?v=VKhFeh92eps
 
